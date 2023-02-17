@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">A passionate frontend developer from Ukraine 🇺🇦.</h3>
+<h3 align="center">A passionate React JS developer from Ukraine 🇺🇦.</h3>
 
 - 🔭 I’m currently working on [English Learning Platform](https://github.com/vlad-dd/English-Learning-Platform)
 
